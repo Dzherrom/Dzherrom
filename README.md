@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%3E.%2FHello+world.py;Error%3A+No+such+file+or+directory;%3E.%2Fhello_world.py;Welcome+to+my+GitHub+profile;My+name+is+Jerome+Rojas;I'm+a+software+developer)](https://git.io/typing-svg)
 
 # Stats
-[![Jerome's GitHub stats](https://github-stats-extended.vercel.app/api?username=Dzherrom)](https://github.com/stats-organization/github-stats-extended)
+[![Mis Estadísticas de GitHub](https://github-stats-extended.vercel.app/api?username=Dzherrom&show_icons=true&hide=stars&show=prs_merged_percentage,prs_reviewed&bg_color=1c1c1c&title_color=4ade80&icon_color=4ade80&text_color=e5e5e5&border_color=333333)](https://github.com/stats-organization/github-stats-extended)
 
 # Top Languages
-[![Top Langs](https://TU-NUEVO-DOMINIO.vercel.app/api/top-langs/?username=Dzherrom&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Dzherrom&layout=donut&bg_color=1c1c1c&title_color=4ade80&text_color=e5e5e5&border_color=333333)](https://github.com/stats-organization/github-stats-extended)
 
 # Skills
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
