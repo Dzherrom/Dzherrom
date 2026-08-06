@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%3E.%2FHello+world.py;Error%3A+No+such+file+or+directory;%3E.%2Fhello_world.py;Welcome+to+my+GitHub+profile;My+name+is+Jerome+Rojas;I'm+a+software+developer)](https://git.io/typing-svg)
 
 # Stats
-[![Jerome's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dzherrom&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+[![Jerome's GitHub stats](https://github-stats-extended.vercel.app/api?username=Dzherrom)](https://github.com/stats-organization/github-stats-extended)
 
 # Top Languages
 [![Top Langs](https://TU-NUEVO-DOMINIO.vercel.app/api/top-langs/?username=Dzherrom&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
